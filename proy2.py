@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 __author__ = "Josué Fabricio Urbina González"
 # Each example is a 28x28 grayscale image, associated with a label from 10 classes
 # Each row is the image of 784 values. Each dimension is a position in the image
+# Data from https://github.com/zalandoresearch/fashion-mnist
 
 # Visual
 # Random state.
